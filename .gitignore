@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+access_log
+access.log
+error_log
+error.log
+node_modules
+
